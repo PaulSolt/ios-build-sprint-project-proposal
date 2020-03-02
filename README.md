@@ -6,15 +6,15 @@
 
 ## Requirements
 
-1. **Team Members**: Paul Solt
-2. **App Name**: Wallpaper Evolution
+1. **Team Members**: Lydia Zhang
+2. **App Name**: Photo De-Duping
 3. **App Description** (3-5 sentences):
     
-    Wallpaper Evolution is a collection of computer generated wallpapers that were "evolved" using Artwork Evolution. The collection is abstract and are a collaboration between the computer and the creator. The wallpapers in this collection were created by Paul Solt.
+    Photo De-Duping is an app that compare the level of similarity between two pictures using the Hamming Distance. It can also find duplicated picture inside a list of images.
     
 4. **Your #1 Customer** (Who would use your app? Why now?)
     
-    I am the primary customer, as someone who enjoys an abstract background. When I get a new device I want a new wallpaper, and I want it to be unique and colorful. These wallpapers follow my design asethetic.
+    For business use on copy right, and for peronal use for individual reasons.
     
 5. **Github code repository**: `<Create a Github Project>`
 6. **Github Project/Trello Board**: <https://github.com/PaulSolt/ios-build-sprint-project-proposal/projects/1>
